@@ -7,7 +7,7 @@ import os
 import sys
 
 DEFAULT_FILENAME = "words.txt"
-DEFAULT_DUPLICATES = False
+DEFAULT_DUPLICATES = True
 
 
 def sort_list(items, ascending=True):
